@@ -1,0 +1,9 @@
+F:\_projects\SteveMarsh\PMT\DevSite\bin\PMT_Admin.dll
+F:\_projects\SteveMarsh\PMT\DevSite\bin\PMT_Admin.pdb
+F:\_projects\SteveMarsh\PMT\DevSite\DesktopModules\PMT_Admin\obj\Debug\PMT_Admin.dll
+F:\_projects\SteveMarsh\PMT\DevSite\DesktopModules\PMT_Admin\obj\Debug\PMT_Admin.pdb
+F:\_projects\SteveMarsh\PMT\DevSite\DesktopModules\PMT_Admin\obj\Debug\PMT_Admin.csproj.App.config
+F:\_projects\SteveMarsh\PMT\DevSite\bin\PMT_Admin.dll.config
+F:\_projects\SteveMarsh\PMT\DevSite\DesktopModules\PMT_Admin\obj\Debug\PMT_Admin.csprojResolveAssemblyReference.cache
+D:\SourceCode\PMT_Admin\obj\Debug\PMT_Admin.csproj.App.config
+D:\SourceCode\PMT_Admin\obj\Debug\PMT_Admin.csprojResolveAssemblyReference.cache
